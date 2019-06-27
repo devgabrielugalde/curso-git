@@ -1,0 +1,1 @@
+git init -> inicializa a pasta como repositório git
